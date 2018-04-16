@@ -3,7 +3,8 @@
     "vuepress": "^0.4.0"
   },
   "scripts": {
-    "build-docs": "vuepress build docs"
+    "build-docs": "vuepress build docs",
+    "docs:dev": "vuepress dev docs"
   }
 }
 
