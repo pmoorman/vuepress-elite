@@ -7,5 +7,10 @@ module.exports = {
       { text: 'Pieter', link: '/guide/' },
       { text: 'Visit Google', link: 'https://google.com' },
     ]
+    sidebar: [
+      '/',
+      '/module1',
+      'https://growthcasts.co/'
+    ]
   }
 }
