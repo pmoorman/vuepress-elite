@@ -16,14 +16,14 @@
   window._drip_pro = new DripPro
   window.drip_plinko = function(drip, page) {
     var response = {}
-    if (drip.has_tag('Purchase!')){
+    if (drip.has_tag('turbotester')){
       response = {
-        login: '<br><br><br><h1>Je bent nu ingelogd</h1>'
+        login: '<p>je mag erin!<p>'
       }
     }
     else {
       response = {
-        login: '<br><br><br><p>oh oh, je hebt geen toegang!<p></br><a href="https://www.getdrip.com/forms/835790157/submissions/new" data-drip-show-form="835790157">Click here to log in!</a>'
+        login: '<p>oh oh, je hebt geen toegang!<p></br><a href="https://www.getdrip.com/forms/835790157/submissions/new" data-drip-show-form="835790157">Click here to log in!</a>'
       }
     }
     return response
