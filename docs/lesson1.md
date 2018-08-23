@@ -3,7 +3,7 @@ title: pagina 1
 # <meta name="robots" content="noindex">
 ---
 
-# This is where module 1 goes
+# This is where lesson 1 goes
 
 <a href="https://www.getdrip.com/forms/835790157/submissions/new" data-drip-show-form="835790157">Show form</a>
 

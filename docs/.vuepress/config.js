@@ -19,33 +19,33 @@ module.exports = {
   // Configuration for the (default) theme
   themeConfig: {
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Pieter', link: '/module1' },
-      { text: 'Visit Google', link: 'https://google.com' },
+      { text: 'Intro', link: '/' },
+      { text: 'Course', link: '/module1' },
+      { text: 'Get Support', link: 'https://google.com' },
     ],
     sidebar: [
       {
         title: 'Module 1',
         collapsable: true,
         children: [
-          '/module1',
-          '/module2'
+          '/lesson1',
+          '/lesson2'
         ]
       },
       {
         title: 'Module 2',
         collapsable: true,
         children: [
-          '/module3',
-          '/module1'
+          '/lesson3',
+          '/lesson1'
         ]
       },
       {
         title: 'Module 3',
         collapsable: true,
         children: [
-          '/module2',
-          '/module3'
+          '/lesson2',
+          '/lesson3'
         ]
       },
     ]
