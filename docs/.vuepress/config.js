@@ -10,23 +10,20 @@ module.exports = {
   // Insert stuff in global <head>. More info: https://github.com/vuejs/vuepress/blob/master/docs/config/README.md
   head: [
     ['meta', { name: 'robots', content: 'noindex' }],
-
     ['script', { type: 'text/javascript', src: 'https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.js' }]
-   // ['script', { type: 'text/javascript', src: '/drip_pro.js' }],
-   // ['script', { type: 'text/javascript', src: '/drip_pro_tools.js' }]
   ],
 
 
   // Configuration for the (default) theme
   themeConfig: {
     nav: [
-      { text: 'Intro', link: '/' },
-      { text: 'Course', link: '/lesson1' },
+      { text: 'Course', link: '/' },
+      { text: 'Treasure Vault', link: '/lesson1' },
       { text: 'Get Support', link: 'https://google.com' },
     ],
     sidebar: [
       {
-        title: 'Module 1',
+        title: 'Module 1: Traction System',
         collapsable: true,
         children: [
           '/lesson1',
@@ -34,7 +31,7 @@ module.exports = {
         ]
       },
       {
-        title: 'Module 2',
+        title: 'Module 2: Copywriting',
         collapsable: true,
         children: [
           '/lesson3',
@@ -42,7 +39,7 @@ module.exports = {
         ]
       },
       {
-        title: 'Module 3',
+        title: 'Module 3: Risk Roadmaps',
         collapsable: true,
         children: [
           '/lesson2',

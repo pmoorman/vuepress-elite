@@ -19,15 +19,9 @@
     if (drip.has_tag('Purchase!')){
       localStorage.setItem('p', '1');
       window.location.href = '/';
-      response = {
-        login: '<p>You have the tag. You are now logged in!<p>'
-      }
     }
     else {
       localStorage.removeItem('p');
-      response = {
-        login: '<p>oh oh, no access! Go here to log in:<p></br><a href="https://www.getdrip.com/forms/835790157/submissions/new" data-drip-show-form="835790157">Click here to log in!</a>'
-      }
     }
     return response
   }

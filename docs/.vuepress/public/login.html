@@ -1,23 +1,205 @@
 <html>
-<head>
+  <head>
+  	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.js"></script>
+  	<script src="/drip_pro.js"></script> 
+  	<script src="/drip_pro_tools.js"></script>
 
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.js"></script>
-	<script src="/drip_pro.js"></script> 
-	<script src="/drip_pro_tools.js"></script>
-	</head>	
-	<body>
-<form action="https://www.getdrip.com/forms/835790157/submissions" method="post" data-drip-embedded-form="835790157">
-  <h3 data-drip-attribute="headline">Which email did you use to purchase Elite?</h3>
-  <div data-drip-attribute="description"></div>
-    <div>
-        <label for="drip-email">Email Address</label><br />
-        <input type="email" id="drip-email" name="fields[email]" value="" />
+    <style type="text/css">
+      .page {
+        padding-bottom: 2rem;
+      }
+      .content:not(.custom) {
+        max-width: 740px;
+        margin: 0 auto;
+        padding: 2rem 2.5rem;
+      }
+      @media (max-width: 959px) {
+      .content:not(.custom) {
+          padding: 2rem;
+      }
+      }
+      @media (max-width: 419px) {
+      .content:not(.custom) {
+          padding: 1.5rem;
+      }
+      }
+      html,
+      body {
+        padding: 0;
+        margin: 0;
+      }
+      body {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        font-size: 16px;
+        color: #2c3e50;
+      }
+      .page {
+        padding-left: 20rem;
+      }
+      .content:not(.custom) > *:first-child {
+        margin-top: 3.6rem;
+      }
+      .content:not(.custom) a:hover {
+        text-decoration: underline;
+      }
+      .content:not(.custom) p.demo {
+        padding: 1rem 1.5rem;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+      }
+      .content:not(.custom) img {
+        max-width: 100%;
+      }
+      .content.custom {
+        padding: 0;
+        margin: 0;
+      }
+      .content.custom img {
+        max-width: 100%;
+      }
+      a {
+        font-weight: 500;
+        color: #3eaf7c;
+        text-decoration: none;
+      }
+      p a code {
+        font-weight: 400;
+        color: #3eaf7c;
+      }
+      kbd {
+        background: #eee;
+        border: solid 0.15rem #ddd;
+        border-bottom: solid 0.25rem #ddd;
+        border-radius: 0.15rem;
+        padding: 0 0.15em;
+      }
+      blockquote {
+        font-size: 1.2rem;
+        color: #999;
+        border-left: 0.25rem solid #dfe2e5;
+        margin-left: 0;
+        padding-left: 1rem;
+      }
+      ul,
+      ol {
+        padding-left: 1.2em;
+      }
+      strong {
+        font-weight: 600;
+      }
+      h1,
+      h2,
+      h3,
+      h4,
+      h5,
+      h6 {
+        font-weight: 600;
+        line-height: 1.25;
+      }
+      .content:not(.custom) > h1,
+      .content:not(.custom) > h2,
+      .content:not(.custom) > h3,
+      .content:not(.custom) > h4,
+      .content:not(.custom) > h5,
+      .content:not(.custom) > h6 {
+        margin-top: -3.1rem;
+        padding-top: 4.6rem;
+        margin-bottom: 0;
+      }
+      .content:not(.custom) > h1:first-child,
+      .content:not(.custom) > h2:first-child,
+      .content:not(.custom) > h3:first-child,
+      .content:not(.custom) > h4:first-child,
+      .content:not(.custom) > h5:first-child,
+      .content:not(.custom) > h6:first-child {
+        margin-top: -1.5rem;
+        margin-bottom: 1rem;
+      }
+      .content:not(.custom) > h1:first-child + p,
+      .content:not(.custom) > h2:first-child + p,
+      .content:not(.custom) > h3:first-child + p,
+      .content:not(.custom) > h4:first-child + p,
+      .content:not(.custom) > h5:first-child + p,
+      .content:not(.custom) > h6:first-child + p,
+      .content:not(.custom) > h1:first-child + pre,
+      .content:not(.custom) > h2:first-child + pre,
+      .content:not(.custom) > h3:first-child + pre,
+      .content:not(.custom) > h4:first-child + pre,
+      .content:not(.custom) > h5:first-child + pre,
+      .content:not(.custom) > h6:first-child + pre,
+      .content:not(.custom) > h1:first-child + .custom-block,
+      .content:not(.custom) > h2:first-child + .custom-block,
+      .content:not(.custom) > h3:first-child + .custom-block,
+      .content:not(.custom) > h4:first-child + .custom-block,
+      .content:not(.custom) > h5:first-child + .custom-block,
+      .content:not(.custom) > h6:first-child + .custom-block {
+        margin-top: 2rem;
+      }
+      h1:hover .header-anchor,
+      h2:hover .header-anchor,
+      h3:hover .header-anchor,
+      h4:hover .header-anchor,
+      h5:hover .header-anchor,
+      h6:hover .header-anchor {
+        opacity: 1;
+      }
+      h1 {
+        font-size: 2.2rem;
+      }
+      h2 {
+        font-size: 1.65rem;
+        padding-bottom: 0.3rem;
+        border-bottom: 1px solid #eaecef;
+      }
+      h3 {
+        font-size: 1.35rem;
+      }
+      p,
+      ul,
+      ol {
+        line-height: 1.7;
+      }
+      hr {
+        border: 0;
+        border-top: 1px solid #eaecef;
+      }
+      @media (max-width: 959px) {
+      .page {
+          padding-left: 16.4rem;
+      }
+      }
+      @media (max-width: 719px) {
+      .page {
+          padding-left: 0;
+      }
+      }
+      @media (max-width: 419px) {
+        h1 {
+            font-size: 1.9rem;
+        }
+      }
+    </style>
+
+  </head>
+
+  <body>
+    <div class="theme-container">
+      <div class="page"> 
+        <div class="content">
+          <form action="https://www.getdrip.com/forms/835790157/submissions" method="post" data-drip-embedded-form="835790157">
+            <h3 data-drip-attribute="headline">Which email did you use to purchase Elite?</h3>
+            <div>
+                <label for="drip-email">Email Address</label><br />
+                <input type="email" id="drip-email" name="fields[email]" value="" style="width:350px; height:2em; margin-top:0.5em; border: #eee 1px solid; border-radius:3px; font-size: 0.8em;"/>
+            </div>
+            <div>
+              <input type="submit" value="Log in to Elite" data-drip-attribute="sign-up-button" style="margin-top:0.5em; color:#fff; background-color:#108dff; font-size:1em; padding:0.5em 1.5em; border:none; border-radius:3px;"/>
+            </div>
+          </form>
+        </div>
+      </div>
     </div>
-  <div>
-    <input type="submit" value="Log in to Elite" data-drip-attribute="sign-up-button" />
-  </div>
-</form>
-
-<h1 class="page-title">Login status:</h1>
-<div data-placeholder="login"></div>	</body>
+  </body>
 </html>

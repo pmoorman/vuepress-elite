@@ -1,2 +1,12 @@
-DS_store
+# dependencies
+/node_modules
+
+# production
+/docs/.vuepress/dist
+
+# misc
+.DS_Store
 yarn.lock
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
