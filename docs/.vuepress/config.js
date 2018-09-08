@@ -18,32 +18,132 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: 'Course', link: '/' },
-      { text: 'Treasure Vault', link: '/lesson1' },
-      { text: 'Get Support', link: 'https://google.com' },
+      { text: 'Treasure Vault', link: '/treasurevault' },
+      { text: 'Get Support', link: 'mailto:pieter@growthcasts.co' },
     ],
     sidebar: [
       {
         title: 'Module 1: Traction System',
         collapsable: true,
         children: [
-          '/lesson1',
-          '/lesson2'
+          '/lesson11',
+          '/lesson12',
+          '/lesson13',
+          '/lesson14',
+          '/lesson15',
+          '/lesson16',
+          '/lesson17',
+          '/case11',
+          '/case12'
         ]
       },
       {
         title: 'Module 2: Copywriting',
         collapsable: true,
         children: [
-          '/lesson3',
-          '/lesson1'
+          '/lesson21',
+          '/lesson22',
+          '/lesson23',
+          '/lesson24',
+          '/lesson25',
+          '/lesson26',
+          '/lesson27',
+          '/case21',
+          '/case22'
         ]
       },
       {
         title: 'Module 3: Risk Roadmaps',
         collapsable: true,
         children: [
-          '/lesson2',
-          '/lesson3'
+          '/lesson31',
+          '/lesson32',
+          '/lesson33',
+          '/lesson34',
+          '/lesson35',
+          '/lesson36',
+          '/lesson37',
+          '/lesson38',
+          '/lesson39',
+          '/case31',
+          '/case32'
+        ]
+      },
+      {
+        title: 'Module 4: Facebook Ads Engine',
+        collapsable: true,
+        children: [
+          '/lesson41',
+          '/lesson42',
+          '/lesson43',
+          '/lesson44',
+          '/lesson45',
+          '/lesson46',
+          '/lesson47',
+        ]
+      },
+      {
+        title: 'Module 5: Lead Gen Engine',
+        collapsable: true,
+        children: [
+          '/lesson51',
+          '/lesson52',
+          '/lesson53',
+          '/lesson54',
+          '/lesson55',
+          '/lesson56',
+          '/lesson57',
+          '/case51',
+          '/case52',
+          '/case53'
+        ]
+      },
+      {
+        title: 'Module 6: Sales Funnels',
+        collapsable: true,
+        children: [
+          '/lesson61',
+          '/lesson62',
+          '/lesson63',
+          '/lesson64',
+          '/lesson65',
+          '/lesson66',
+          '/lesson67',
+          '/lesson68',
+          '/case61',
+          '/case62'
+        ]
+      },
+      {
+        title: 'Module 7: Advanced Onboarding',
+        collapsable: true,
+        children: [
+          '/lesson71',
+          '/lesson72',
+          '/lesson73',
+          '/lesson74',
+          '/lesson75',
+          '/lesson76',
+          '/lesson77',
+          '/lesson78',
+          '/lesson79',
+          '/lesson710',
+          '/case71',
+          '/case72'
+        ]
+      },
+      {
+        title: 'BONUS module: Consulting',
+        collapsable: true,
+        children: [
+          '/consulting1',
+          '/consulting2',
+          '/consulting3',
+          '/consulting4',
+          '/consulting5',
+          '/consulting6',
+          '/consulting7',
+          '/consulting8'
         ]
       },
     ]
