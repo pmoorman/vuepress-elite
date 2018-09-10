@@ -1,5 +1,8 @@
 # Treasure Vault
 
+## Note to Caspar:
+The treasure vault will go out here, and instead we'll use treasure vaults per module. Each treasure vault will be called /downloads-treasure-vault-3 with the number being the module. Downloads go inside each treasure vault, hence we call it "Downloads & Treasure Vault"
+
 ## Growth strategy
 
 ### Lean
