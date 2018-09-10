@@ -1,7 +1,7 @@
 ---
-title: "1: Introduction"
+title: "2: Core Constraints"
 ---
 
-# Introduction
+# Core Constraints
 
-<div class='embed-container'><iframe src='https://player.vimeo.com/video/241302894' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+<div class='embed-container'><iframe src='https://player.vimeo.com/video/206097131' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>

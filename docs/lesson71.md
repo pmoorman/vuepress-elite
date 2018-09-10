@@ -1,7 +1,7 @@
 ---
-title: "1: Introduction"
+title: "1: Intro: 50%"
 ---
 
-# Introduction
+# Intro: 50%
 
-<div class='embed-container'><iframe src='https://player.vimeo.com/video/241302894' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+<div class='embed-container'><iframe src='https://player.vimeo.com/video/206255763' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>

@@ -1,7 +1,7 @@
 ---
-title: "1: Introduction"
+title: "4: Advertising Copywriting"
 ---
 
-# Introduction
+# Advertising Copywriting
 
-<div class='embed-container'><iframe src='https://player.vimeo.com/video/241302894' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+<div class='embed-container'><iframe src='https://player.vimeo.com/video/206083895' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>

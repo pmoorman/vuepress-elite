@@ -1,7 +1,7 @@
 ---
-title: "1: Introduction"
+title: "3: Friction and Confusion"
 ---
 
-# Introduction
+# Friction and Confusion
 
-<div class='embed-container'><iframe src='https://player.vimeo.com/video/241302894' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+<div class='embed-container'><iframe src='https://player.vimeo.com/video/206255924' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>

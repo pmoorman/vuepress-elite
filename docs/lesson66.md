@@ -1,7 +1,7 @@
 ---
-title: "1: Introduction"
+title: "6: Freemium Funnel"
 ---
 
-# Introduction
+# Freemium Funnel
 
-<div class='embed-container'><iframe src='https://player.vimeo.com/video/241302894' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+<div class='embed-container'><iframe src='https://player.vimeo.com/video/206232785' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>

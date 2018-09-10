@@ -34,7 +34,8 @@ module.exports = {
           '/lesson16',
           '/lesson17',
           '/case11',
-          '/case12'
+          '/case12',
+          '/materials1'
         ]
       },
       {
@@ -49,7 +50,9 @@ module.exports = {
           '/lesson26',
           '/lesson27',
           '/case21',
-          '/case22'
+          '/case22',
+          '/materials2'
+
         ]
       },
       {
@@ -66,7 +69,8 @@ module.exports = {
           '/lesson38',
           '/lesson39',
           '/case31',
-          '/case32'
+          '/case32',
+          '/materials3'
         ]
       },
       {
@@ -80,6 +84,7 @@ module.exports = {
           '/lesson45',
           '/lesson46',
           '/lesson47',
+          '/materials4'
         ]
       },
       {
@@ -95,7 +100,8 @@ module.exports = {
           '/lesson57',
           '/case51',
           '/case52',
-          '/case53'
+          '/case53',
+          '/materials5'
         ]
       },
       {
@@ -111,7 +117,8 @@ module.exports = {
           '/lesson67',
           '/lesson68',
           '/case61',
-          '/case62'
+          '/case62',
+          '/materials6'
         ]
       },
       {
@@ -129,7 +136,8 @@ module.exports = {
           '/lesson79',
           '/lesson710',
           '/case71',
-          '/case72'
+          '/case72',
+          '/materials7'
         ]
       },
       {
