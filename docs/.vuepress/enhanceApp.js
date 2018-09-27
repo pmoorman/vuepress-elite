@@ -5,7 +5,7 @@ export default ({
   siteData // site metadata
 }) => {
 	router.beforeEach((to, from, next) => {
-		var auth = localStorage.getItem('p');
+		var auth = window.localStorage.getItem('p');
 		if (auth) {
   			// console.log("all is good");
   			next();
