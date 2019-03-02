@@ -120,25 +120,6 @@ module.exports = {
         ]
       },
       {
-        title: 'Module 7: Advanced Onboarding',
-        collapsable: true,
-        children: [
-          '/lesson71',
-          '/lesson72',
-          '/lesson73',
-          '/lesson74',
-          '/lesson75',
-          '/lesson76',
-          '/lesson77',
-          '/lesson78',
-          '/lesson79',
-          '/lesson710',
-          '/case71',
-          '/case72',
-          '/materials7'
-        ]
-      },
-      {
         title: 'BONUS module: Consulting',
         collapsable: true,
         children: [
