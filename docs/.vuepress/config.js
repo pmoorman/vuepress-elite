@@ -18,7 +18,7 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: 'Course', link: '/' },
-      { text: 'Get Support', link: 'https://google.com' },
+      { text: 'Get Support', link: '/support' },
     ],
     sidebar: [
       {
