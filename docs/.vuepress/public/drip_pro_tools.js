@@ -22,6 +22,7 @@
     }
     else {
       localStorage.removeItem('p');
+      // localStorage.setItem('p', '1');
     }
     return response
   }
