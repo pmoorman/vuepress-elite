@@ -1,7 +1,7 @@
 ---
-title: "6: Freemium Funnel"
+title: "6: Analytics & Data"
 ---
 
-# Freemium Funnel
+# Analytics & Data
 
-<div class='embed-container'><iframe src='https://player.vimeo.com/video/206232785' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+<div class='embed-container'><iframe src='https://player.vimeo.com/video/323216282' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>

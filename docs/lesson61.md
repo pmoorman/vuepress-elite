@@ -1,7 +1,7 @@
 ---
-title: "1: Intro: Sales Funnels"
+title: "1: Strategy Overview"
 ---
 
-# Intro: Sales Funnels
+# Strategy Overview
 
-<div class='embed-container'><iframe src='https://player.vimeo.com/video/206232200' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+<div class='embed-container'><iframe src='https://player.vimeo.com/video/323209850' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
