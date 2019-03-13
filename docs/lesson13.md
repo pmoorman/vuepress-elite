@@ -1,7 +1,7 @@
 ---
-title: "3: Consider all options"
+title: "3: Process & Lean"
 ---
 
-# Consider all options
+# Process & Lean
 
-<div class='embed-container'><iframe src='https://player.vimeo.com/video/206047715' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+<div class='embed-container'><iframe src='https://player.vimeo.com/video/' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>

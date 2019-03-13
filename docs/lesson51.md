@@ -1,7 +1,7 @@
 ---
-title: "1: The Blueprint"
+title: "1: Retention Strategy"
 ---
 
-# The Blueprint
+# Retention Strategy
 
-<div class='embed-container'><iframe src='https://player.vimeo.com/video/206225899' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+<div class='embed-container'><iframe src='https://player.vimeo.com/video/322721854' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>

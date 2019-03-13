@@ -1,7 +1,7 @@
 ---
-title: "6: Outbound Outreach"
+title: "6: Closing The Loop"
 ---
 
-# Outbound Outreach
+# Closing The Loop
 
-<div class='embed-container'><iframe src='https://player.vimeo.com/video/206230777' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+<div class='embed-container'><iframe src='https://player.vimeo.com/video/322725616' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>

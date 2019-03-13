@@ -1,7 +1,7 @@
 ---
-title: "2: Startup plan"
+title: "2: Core Constraints"
 ---
 
-# Startup plan
+# Core Constraints
 
-<div class='embed-container'><iframe src='https://player.vimeo.com/video/206215694' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+<div class='embed-container'><iframe src='https://player.vimeo.com/video/322702734' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>

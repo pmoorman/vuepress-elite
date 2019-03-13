@@ -1,7 +1,7 @@
 ---
-title: "3: Finding the Source"
+title: "3: Onboarding"
 ---
 
-# Finding the Source
+# Onboarding
 
-<div class='embed-container'><iframe src='https://player.vimeo.com/video/206231139' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+<div class='embed-container'><iframe src='https://player.vimeo.com/video/322723253' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>

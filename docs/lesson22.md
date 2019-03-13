@@ -1,7 +1,7 @@
 ---
-title: "2: Their Perspective"
+title: "2: Conversational Sequencing"
 ---
 
-# Their Perspective
+# Conversational Sequencing
 
-<div class='embed-container'><iframe src='https://player.vimeo.com/video/206237103' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+<div class='embed-container'><iframe src='https://player.vimeo.com/video/322697229' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>

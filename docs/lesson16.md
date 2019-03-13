@@ -1,7 +1,7 @@
 ---
-title: "6: Get to Profitability"
+title: "6: Growth Loops, Part II"
 ---
 
-# Get to Profitability
+# Growth Loops, Part II
 
-<div class='embed-container'><iframe src='https://player.vimeo.com/video/206047129' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+<div class='embed-container'><iframe src='https://player.vimeo.com/video/322693435' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>

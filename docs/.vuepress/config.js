@@ -22,7 +22,7 @@ module.exports = {
     ],
     sidebar: [
       {
-        title: 'Module 1: Traction System',
+        title: 'Module 1: Growth Strategy',
         collapsable: true,
         children: [
           '/lesson11',
@@ -31,14 +31,13 @@ module.exports = {
           '/lesson14',
           '/lesson15',
           '/lesson16',
-          '/lesson17',
           '/case11',
           '/case12',
           '/materials1'
         ]
       },
       {
-        title: 'Module 2: Copywriting',
+        title: 'Module 2: Sales Funnels',
         collapsable: true,
         children: [
           '/lesson21',
@@ -47,14 +46,13 @@ module.exports = {
           '/lesson24',
           '/lesson25',
           '/lesson26',
-          '/lesson27',
           '/case21',
           '/case22',
           '/materials2'
         ]
       },
       {
-        title: 'Module 3: Risk Roadmaps',
+        title: 'Module 3: Growth Engines',
         collapsable: true,
         children: [
           '/lesson31',
@@ -64,29 +62,24 @@ module.exports = {
           '/lesson35',
           '/lesson36',
           '/lesson37',
-          '/lesson38',
-          '/lesson39',
           '/case31',
           '/case32',
           '/materials3'
         ]
       },
       {
-        title: 'Module 4: Facebook Ads Engine',
+        title: 'Module 4: Copy & conversions',
         collapsable: true,
         children: [
           '/lesson41',
           '/lesson42',
           '/lesson43',
           '/lesson44',
-          '/lesson45',
-          '/lesson46',
-          '/lesson47',
           '/materials4'
         ]
       },
       {
-        title: 'Module 5: Lead Gen Engine',
+        title: 'Module 5: Retention',
         collapsable: true,
         children: [
           '/lesson51',
@@ -95,7 +88,6 @@ module.exports = {
           '/lesson54',
           '/lesson55',
           '/lesson56',
-          '/lesson57',
           '/case51',
           '/case52',
           '/case53',
@@ -103,7 +95,7 @@ module.exports = {
         ]
       },
       {
-        title: 'Module 6: Sales Funnels',
+        title: 'Module 6: Advanced Strategies',
         collapsable: true,
         children: [
           '/lesson61',

@@ -1,7 +1,7 @@
 ---
-title: "7: Ignition Risk"
+title: "7: Profitability & Scaling"
 ---
 
-# Ignition Risk
+# Profitability & Scaling
 
-<div class='embed-container'><iframe src='https://player.vimeo.com/video/206216791' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+<div class='embed-container'><iframe src='https://player.vimeo.com/video/322707912' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>

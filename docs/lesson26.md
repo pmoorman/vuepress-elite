@@ -1,7 +1,7 @@
 ---
-title: "6: Power Words"
+title: "6: Product Demo Template"
 ---
 
-# Power Words
+# Product Demo Template
 
-<div class='embed-container'><iframe src='https://player.vimeo.com/video/206237548' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+<div class='embed-container'><iframe src='https://player.vimeo.com/video/322701221' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>

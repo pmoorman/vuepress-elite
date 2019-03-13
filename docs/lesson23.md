@@ -1,7 +1,7 @@
 ---
-title: "3: Add a problem statement"
+title: "3: Funnel Building Process"
 ---
 
-# Add a problem statement
+# Funnel Building Process
 
-<div class='embed-container'><iframe src='https://player.vimeo.com/video/206237257' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+<div class='embed-container'><iframe src='https://player.vimeo.com/video/322697449' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>

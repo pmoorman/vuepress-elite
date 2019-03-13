@@ -1,7 +1,7 @@
 ---
-title: "5: Peeling the Onion"
+title: "5: Freemium Template"
 ---
 
-# Peeling the Onion
+# Freemium Template
 
-<div class='embed-container'><iframe src='https://player.vimeo.com/video/206237435' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+<div class='embed-container'><iframe src='https://player.vimeo.com/video/322700525' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
