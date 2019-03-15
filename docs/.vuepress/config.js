@@ -46,9 +46,9 @@ module.exports = {
           '/lesson24',
           '/lesson25',
           '/lesson26',
-          '/case21',
-          '/case22',
-          '/materials2'
+          '/case61',
+          '/case62',
+          '/materials6'
         ]
       },
       {
@@ -62,9 +62,11 @@ module.exports = {
           '/lesson35',
           '/lesson36',
           '/lesson37',
-          '/case31',
-          '/case32',
-          '/materials3'
+          '/case51',
+          '/case52',
+          '/case53',
+          '/materials4'
+          '/materials5'
         ]
       },
       {
@@ -75,7 +77,9 @@ module.exports = {
           '/lesson42',
           '/lesson43',
           '/lesson44',
-          '/materials4'
+          '/case21',
+          '/case22',
+          '/materials2'
         ]
       },
       {
@@ -88,10 +92,6 @@ module.exports = {
           '/lesson54',
           '/lesson55',
           '/lesson56',
-          '/case51',
-          '/case52',
-          '/case53',
-          '/materials5'
         ]
       },
       {
@@ -106,25 +106,25 @@ module.exports = {
           '/lesson66',
           '/lesson67',
           '/lesson68',
-          '/case61',
-          '/case62',
-          '/materials6'
+          '/case31',
+          '/case32',
+          '/materials3'
         ]
       },
-      {
-        title: 'BONUS module: Consulting',
-        collapsable: true,
-        children: [
-          '/consulting1',
-          '/consulting2',
-          '/consulting3',
-          '/consulting4',
-          '/consulting5',
-          '/consulting6',
-          '/consulting7',
-          '/consulting8'
-        ]
-      },
+      //{
+        //title: 'BONUS module: Consulting',
+        //collapsable: true,
+        //children: [
+        //  '/consulting1',
+        //  '/consulting2',
+        //  '/consulting3',
+        //  '/consulting4',
+        //  '/consulting5',
+        //  '/consulting6',
+        //  '/consulting7',
+        //  '/consulting8'
+        //]
+      //},
     ]
   }
 }

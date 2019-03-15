@@ -1,5 +1,5 @@
 ---
-title: "Case Study: Traction 1"
+title: "Case Study: Find your one channel 1"
 ---
 
 # Growthcasts (Case Study)

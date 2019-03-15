@@ -1,5 +1,5 @@
 ---
-title: "Case Study: Traction 2"
+title: "Case Study: Find your one channel 2"
 ---
 
 # Radiantly Alive (Case Study)
