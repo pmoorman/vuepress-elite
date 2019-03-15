@@ -65,7 +65,7 @@ module.exports = {
           '/case51',
           '/case52',
           '/case53',
-          '/materials4'
+          '/materials4',
           '/materials5'
         ]
       },
