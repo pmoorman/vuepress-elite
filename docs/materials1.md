@@ -1,5 +1,5 @@
 ---
-title: "Channel Strategy Materials"
+title: "Materials & Treasure Vault"
 ---
 
 ## Materials
@@ -9,6 +9,6 @@ title: "Channel Strategy Materials"
 
 ## Treasure Vault
 
-- <a target="_blank" href="https://www.amazon.com/Traction-Startup-Achieve-Explosive-Customer/dp/1591848369">Traction</a> (book)  ::  the original version that module 1 is based on!
-- <a target="_blank" href="https://news.greylock.com/building-a-growth-model-for-your-company-a7a82c55782e#.thglwzn50">Growth models</a>  ::  article by Andy Johns (Growth @Facebook, etc.)
-- <a target="_blank" href="https://sumo.com/stories/marketing-strategy">Scientific Marketing</a>  ::  article by SumoMe
+- <a target="_blank" href="https://www.amazon.com/Traction-Startup-Achieve-Explosive-Customer/dp/1591848369">Traction (book):</a> The original version that module 1 is based on!
+- <a target="_blank" href="https://news.greylock.com/building-a-growth-model-for-your-company-a7a82c55782e#.thglwzn50">Growth models:</a> Article by Andy Johns (Growth @Facebook, etc.)
+- <a target="_blank" href="https://sumo.com/stories/marketing-strategy">Scientific Marketing:</a> Article by SumoMe
