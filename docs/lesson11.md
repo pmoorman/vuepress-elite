@@ -8,13 +8,11 @@ title: "1: Intro to the Course"
 
 ### Description
 
-Description goes here
+Short introduction to the course, as well an overview of what to find where.
 
 ### Resources
 
 - [Lesson slides (PDF)](https://wvww.googledrive.com/file_public_link)
 - [Lesson transcripts](https://wvww.googledrive.com/file_public_link)
-- 
-
 
 ### Notes

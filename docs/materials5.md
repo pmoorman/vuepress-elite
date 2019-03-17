@@ -9,6 +9,11 @@ title: "Lead Gen Engine materials"
 
 ## Treasure Vault
 
+- [How to increase user retention](https://medium.com/@danniechu/how-to-systematically-improve-your-user-retention-e5437c5159fa)
+
+
+
+
 #### Lead gen & prospecting
 
 -  <a target="_blank" href="http://prospect.io">Prospect.io</a> (tool) :: outbound outreach tool
