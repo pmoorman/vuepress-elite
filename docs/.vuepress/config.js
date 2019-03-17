@@ -48,7 +48,7 @@ module.exports = {
           '/lesson26',
           '/case61',
           '/case62',
-          '/materials6'
+          '/materials2'
         ]
       },
       {
@@ -65,8 +65,7 @@ module.exports = {
           '/case51',
           '/case52',
           '/case53',
-          '/materials4',
-          '/materials5'
+          '/materials3'
         ]
       },
       {
@@ -79,7 +78,7 @@ module.exports = {
           '/lesson44',
           '/case21',
           '/case22',
-          '/materials2'
+          '/materials4'
         ]
       },
       {
@@ -92,6 +91,7 @@ module.exports = {
           '/lesson54',
           '/lesson55',
           '/lesson56',
+          '/materials5'
         ]
       },
       {
@@ -108,7 +108,7 @@ module.exports = {
           '/lesson68',
           '/case31',
           '/case32',
-          '/materials3'
+          '/materials6'
         ]
       },
       //{
