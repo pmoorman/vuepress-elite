@@ -25,7 +25,7 @@ module.exports = {
         title: 'Module 1: Growth Strategy',
         collapsable: true,
         children: [
-          '/lesson11',
+          // '/lesson11',
           '/lesson12',
           '/lesson13',
           '/lesson14',
