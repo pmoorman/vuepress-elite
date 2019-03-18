@@ -2,7 +2,7 @@
 title: "1: Intro to the Course"
 ---
 
-# Intro to the Course
+# Intro to the Course (Coming soon!!)
 
 <div class='embed-container'><iframe src='https://player.vimeo.com/video/320884124' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
