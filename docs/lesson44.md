@@ -12,7 +12,7 @@ Most of the magic in copywriting lies in the structural part, but that doesn't t
 
 ### Resources
 
-- [Lesson slides (PDF)](https://wvww.googledrive.com/file_public_link)
-- [Lesson transcripts](https://wvww.googledrive.com/file_public_link)
+- [Lesson slides (PDF)](https://drive.google.com/open?id=1rpoC96dTBCPJD9juqcB6-Epviu0mPg3i)
+- [Lesson transcripts](https://drive.google.com/open?id=13gUwJxP3gh1m5OCp0n7qu53OkJWWWxFv9v9YLcAENEY)
 
 ### Notes

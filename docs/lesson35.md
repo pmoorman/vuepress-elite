@@ -13,8 +13,8 @@ Lead gen engine breakdown. This growth engine is primarily oriented towards B2B 
 
 ### Resources
 
-- [Lesson slides (PDF)](https://wvww.googledrive.com/file_public_link)
-- [Lesson transcripts](https://wvww.googledrive.com/file_public_link)
-- [Lead Gen Engine (PDF Guide)](https://wvww.googledrive.com/file_public_link)
+- [Lesson slides (PDF)](https://drive.google.com/open?id=1AQCDjMUsGnd0s3f-gy-IansiuPZTueVj)
+- [Lesson transcripts](https://drive.google.com/open?id=1rT49VqBednC4Xn2OzPGqcEsgzLbbfHO6cAIw1fGnevo)
+- [Lead Gen Engine (PDF Guide)](https://drive.google.com/open?id=11YirhcW7pV1vuykeSvqCeeMmLidcsMC2)
 
 ### Notes

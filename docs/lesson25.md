@@ -13,8 +13,8 @@ We unpack and break down what is needed to make a freemium business tick, and us
 
 ### Resources
 
-- [Lesson slides (PDF)](https://wvww.googledrive.com/file_public_link)
-- [Lesson transcripts](https://wvww.googledrive.com/file_public_link)
-- [Freemium funnel template](https://wvww.googledrive.com/file_public_link)
+- [Lesson slides (PDF)](https://drive.google.com/open?id=173cTeMHDqGxFAsRmpbV_LUk2jwgq3e9H)
+- [Lesson transcripts](https://drive.google.com/open?id=1_BH-P9DOmxSKMc7WScXnaMfLHEqOXK8JVTcZLVMwjlA)
+- [Freemium funnel template](https://drive.google.com/open?id=1QwR6qhl-G6cm_OgB8_f9E-j5XPG35Zjg)
 
 ### Notes

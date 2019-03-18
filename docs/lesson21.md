@@ -13,7 +13,7 @@ Overview of what 'sales funnels' are, and why we need them to do effective marke
 
 ### Resources
 
-- [Lesson slides (PDF)](https://wvww.googledrive.com/file_public_link)
-- [Lesson transcripts](https://wvww.googledrive.com/file_public_link)
+- [Lesson slides (PDF)](https://drive.google.com/open?id=1eaGR496OszpsWpnbqLAII3Y1ukc4lCqK)
+- [Lesson transcripts](https://drive.google.com/open?id=1piQrUO6IY80lHsoNUaZKqf9LNzmC5H41mDdjTmyq8cM)
 
 ### Notes

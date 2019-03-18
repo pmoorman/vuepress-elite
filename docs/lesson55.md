@@ -13,7 +13,7 @@ Learn the educational-based strategies that improve onboarding, ranging from ema
 
 ### Resources
 
-- [Lesson slides (PDF)](https://wvww.googledrive.com/file_public_link)
-- [Lesson transcripts](https://wvww.googledrive.com/file_public_link)
+- [Lesson slides (PDF)](https://drive.google.com/open?id=1cUsquFWDv3d6ECuAAX9cMImBh2CaQRad)
+- [Lesson transcripts](https://drive.google.com/open?id=1t7C2euM0JPnuarT-o3SpFPkvPGjavzeeY3WxM8_9QmM)
 
 ### Notes

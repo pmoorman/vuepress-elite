@@ -13,8 +13,8 @@ Exploration of the paid ads engine, in particular applied to the Facebook ads en
 
 ### Resources
 
-- [Lesson slides (PDF)](https://wvww.googledrive.com/file_public_link)
-- [Lesson transcripts](https://wvww.googledrive.com/file_public_link)
-- [Facebook Ads Engine (PDF Guide)](https://wvww.googledrive.com/file_public_link)
+- [Lesson slides (PDF)](https://drive.google.com/open?id=1mmEuvtKjwGVyHJHKQsxSOIl2eT1CJNfo)
+- [Lesson transcripts](https://drive.google.com/open?id=14P2O-NFu9AmpjeS9-KzflNLULQC8934TIMpMYmmsk84)
+- [Facebook Ads Engine (PDF Guide)](https://drive.google.com/open?id=1VY1vGavCnHPe3KtpLUndShr9UKzKNhsJ)
 
 ### Notes

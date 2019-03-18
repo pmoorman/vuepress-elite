@@ -13,7 +13,7 @@ Use the simple framework we use internally to help early-stage startups move to 
 
 ### Resources
 
-- [Lesson slides (PDF)](https://wvww.googledrive.com/file_public_link)
-- [Lesson transcripts](https://wvww.googledrive.com/file_public_link)
+- [Lesson slides (PDF)](https://drive.google.com/open?id=1A8B2k-58uxiY6WEhBQSeu3FloynwGKA0)
+- [Lesson transcripts](https://drive.google.com/open?id=1QAfLCM6pLbqdCndQVC38A9VavRNUPuIQt5MN5znRdXw)
 
 ### Notes

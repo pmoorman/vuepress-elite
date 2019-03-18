@@ -19,7 +19,7 @@ Content-based growth engines covered:
 
 ### Resources
 
-- [Lesson slides (PDF)](https://wvww.googledrive.com/file_public_link)
-- [Lesson transcripts](https://wvww.googledrive.com/file_public_link)
+- [Lesson slides (PDF)](https://drive.google.com/open?id=11Eisfo6CeSsugTXDhIW4RPXIRTbjK5I5)
+- [Lesson transcripts](https://drive.google.com/open?id=1m806Lu-Ei9sFdO4AZOmNlDqO7sX72KbspRd7cAA1QRk)
 
 ### Notes

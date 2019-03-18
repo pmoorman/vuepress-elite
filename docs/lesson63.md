@@ -13,7 +13,7 @@ Take agile and lean to the next level, and learn how a regime of high-tempo test
 
 ### Resources
 
-- [Lesson slides (PDF)](https://wvww.googledrive.com/file_public_link)
-- [Lesson transcripts](https://wvww.googledrive.com/file_public_link)
+- [Lesson slides (PDF)](https://drive.google.com/open?id=1tkvlQ-xevEUW5S2An6kiiM5N5O5FLtBZ)
+- [Lesson transcripts](https://drive.google.com/open?id=1X_98Ud-ReEdkVIbHwYqRZVyivUGbpBKfxniVyjEWko4)
 
 ### Notes

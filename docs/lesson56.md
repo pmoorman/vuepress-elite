@@ -13,7 +13,7 @@ Overview of retention in the "grand scheme of things", exploring the role of ret
 
 ### Resources
 
-- [Lesson slides (PDF)](https://wvww.googledrive.com/file_public_link)
-- [Lesson transcripts](https://wvww.googledrive.com/file_public_link)
+- [Lesson slides (PDF)](https://drive.google.com/open?id=1nib8l92ry9Bx7AZGuLnPVp8xXq66gS6p)
+- [Lesson transcripts](https://drive.google.com/open?id=1_wgX5tFGi38vAXxRGRg7v5leVHd24r9oEh8Q0Y1uq7g)
 
 ### Notes

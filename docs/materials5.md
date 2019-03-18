@@ -3,7 +3,8 @@ title: "Materials & Treasure Vault"
 ---
 
 ## Materials
--  <a target="_blank" href="https://s3.eu-west-2.amazonaws.com/growthcasts-course-materials/Advanced+Onboarding+Guide.pdf">Advanced Onboarding Guide</a>
+-  <a target="_blank" href="https://drive.google.com/open?id=105AQSGRIjlLnkKCOU6tkkqhNQyJ1rKd4">Advanced Onboarding Guide</a>
+-  <a target="_blank" href="https://drive.google.com/open?id=1LwT5FdreYA5rU_HEzu-j-RImgp88oVCa">Magic Moments Map Worksheet</a>
 
 
 ## Treasure Vault

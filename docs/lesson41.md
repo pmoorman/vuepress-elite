@@ -13,7 +13,7 @@ Part I of the P-S-T framework, where we learn how to write systematic, structure
 
 ### Resources
 
-- [Lesson slides (PDF)](https://wvww.googledrive.com/file_public_link)
-- [Lesson transcripts](https://wvww.googledrive.com/file_public_link)
+- [Lesson slides (PDF)](https://drive.google.com/open?id=1ZslrqZWAyhRviKQhoDnMXVxLiHujvZLb)
+- [Lesson transcripts](https://drive.google.com/open?id=1jSnc5uMhHCuD_vnOUF_FX2pZvxy9FTGcyu7VvinvCQE)
 
 ### Notes

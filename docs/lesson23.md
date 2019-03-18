@@ -13,7 +13,7 @@ A lesson on process. Learn how to efficiently build sales funnels, as well as ot
 
 ### Resources
 
-- [Lesson slides (PDF)](https://wvww.googledrive.com/file_public_link)
-- [Lesson transcripts](https://wvww.googledrive.com/file_public_link)
+- [Lesson slides (PDF)](https://drive.google.com/open?id=1FBSXPirrpsJc4sX20vEaTpi94GTOsfEU)
+- [Lesson transcripts](https://drive.google.com/open?id=1Q9P1d4r-O0UJDfuAXGKKhF4HwC0WHNv9oFymzZ4l6GY)
 
 ### Notes

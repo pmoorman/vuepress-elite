@@ -13,7 +13,7 @@ A course no growth isn't complete without knowing how to use data and analytics.
 
 ### Resources
 
-- [Lesson slides (PDF)](https://wvww.googledrive.com/file_public_link)
-- [Lesson transcripts](https://wvww.googledrive.com/file_public_link)
+- [Lesson slides (PDF)](https://drive.google.com/open?id=1KVkoGZNDPMUUpycIkg4yakKCAMX-h3Eu)
+- [Lesson transcripts](https://drive.google.com/open?id=1NYoEw5OEuAGCysWer9hBr4CU5ZTb687cousKDubnSWc)
 
 ### Notes

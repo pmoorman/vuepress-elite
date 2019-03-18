@@ -13,7 +13,7 @@ Learn about NUX, blank states and interface enhancements. All these are product-
 
 ### Resources
 
-- [Lesson slides (PDF)](https://wvww.googledrive.com/file_public_link)
-- [Lesson transcripts](https://wvww.googledrive.com/file_public_link)
+- [Lesson slides (PDF)](https://drive.google.com/open?id=1o-jUN8UnVvjYZTJYFnL5l2VUsRiPbEbx)
+- [Lesson transcripts](https://drive.google.com/open?id=14z6HTo1R8mwjNLG6f9pwW5Yyequn8ExauY5weCLUiJk)
 
 ### Notes

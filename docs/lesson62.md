@@ -13,7 +13,7 @@ Let your inner geek out, and learn the financial/technical part to modelling gro
 
 ### Resources
 
-- [Lesson slides (PDF)](https://wvww.googledrive.com/file_public_link)
-- [Lesson transcripts](https://wvww.googledrive.com/file_public_link)
+- [Lesson slides (PDF)](https://drive.google.com/open?id=1uxJ4DZ97T77-Qr9xZGxF3s47Kq1RsmVD)
+- [Lesson transcripts](https://drive.google.com/open?id=1ZHGjrQ0LLAg9d1hWguNQSrtBfu3bvuwE8k269qbeG10)
 
 ### Notes

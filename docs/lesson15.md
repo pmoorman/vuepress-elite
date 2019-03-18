@@ -13,7 +13,7 @@ With over 25 different acquisition channels, it's a challenge to select the righ
 
 ### Resources
 
-- [Lesson slides (PDF)](https://wvww.googledrive.com/file_public_link)
-- [Lesson transcripts](https://wvww.googledrive.com/file_public_link)
+- [Lesson slides (PDF)](https://drive.google.com/open?id=1xvTBV5w9Ua2VZIUo-bBT-Layd8FPbsEJ)
+- [Lesson transcripts](https://drive.google.com/open?id=1eEV_GOOzR3z4p47aVun9P58qkNHSFgby7i5P4C4-MAQ)
 
 ### Notes

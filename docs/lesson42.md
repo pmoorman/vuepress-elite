@@ -13,7 +13,7 @@ Part II of the P-S-T framework to writing systematic, structured copy that conve
 
 ### Resources
 
-- [Lesson slides (PDF)](https://wvww.googledrive.com/file_public_link)
-- [Lesson transcripts](https://wvww.googledrive.com/file_public_link)
+- [Lesson slides (PDF)](https://drive.google.com/open?id=1vI9Sa_c6MzAZVKq5xlMrlxJHXb3b817S)
+- [Lesson transcripts](https://drive.google.com/open?id=1ESLRWNslwQJAIxfnGq6HK94kkC3a0MWx_5_Yryp7S4U)
 
 ### Notes

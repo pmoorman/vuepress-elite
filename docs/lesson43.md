@@ -12,7 +12,7 @@ The finale in our trilogy on writing killer sales letters and conversion flows. 
 
 ### Resources
 
-- [Lesson slides (PDF)](https://wvww.googledrive.com/file_public_link)
-- [Lesson transcripts](https://wvww.googledrive.com/file_public_link)
+- [Lesson slides (PDF)](https://drive.google.com/open?id=1V4NLKmAW2c6GvnakvffzelU30S1B2Zno)
+- [Lesson transcripts](https://drive.google.com/open?id=1SZkgmGOoUhgexrxFdd_BBnq_xvMNdHYypggADosqiNg)
 
 ### Notes

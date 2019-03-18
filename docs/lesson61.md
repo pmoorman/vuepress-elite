@@ -13,7 +13,7 @@ Recapping all the strategy components we've learned so far, and solidifying them
 
 ### Resources
 
-- [Lesson slides (PDF)](https://wvww.googledrive.com/file_public_link)
-- [Lesson transcripts](https://wvww.googledrive.com/file_public_link)
+- [Lesson slides (PDF)](https://drive.google.com/open?id=17lm_FJo-ogVgJQg7pV21obO6cosFQuCa)
+- [Lesson transcripts](https://drive.google.com/open?id=1nszasaOR__Zb-Bq0EVbw7a6WDlSrE9qf2IG-gxIhfWk)
 
 ### Notes

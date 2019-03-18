@@ -13,7 +13,7 @@ Part II of the risk roadmaps framework shows you not only how to properly think 
 
 ### Resources
 
-- [Lesson slides (PDF)](https://wvww.googledrive.com/file_public_link)
-- [Lesson transcripts](https://wvww.googledrive.com/file_public_link)
+- [Lesson slides (PDF)](https://drive.google.com/open?id=1ntxM9JeOUTHeL-wc9CURo5M0visF25Nb)
+- [Lesson transcripts](https://drive.google.com/open?id=15kSm0O1G2wtDDWQAzmAbiUGa-0ouEstrjFqlUQDN32g)
 
 ### Notes

@@ -12,8 +12,8 @@ Learn to audit your retention problems, and break things down into short-term, m
 
 ### Resources
 
-- [Lesson slides (PDF)](https://wvww.googledrive.com/file_public_link)
+- [Lesson slides (PDF)](https://drive.google.com/open?id=12eygISg4HFgKE4YsbDsxTawJE97e2Cao)
 - [Lesson transcripts](https://wvww.googledrive.com/file_public_link)
-- [Retention Matrix cheatsheet](https://wvww.googledrive.com/file_public_link)
+- [Retention Matrix cheatsheet](https://drive.google.com/open?id=13LhTs1UxkZ5Amhlgq3aT48BLHfIbbmQ1)
 
 ### Notes

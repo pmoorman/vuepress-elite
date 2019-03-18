@@ -3,8 +3,8 @@ title: "Materials & Treasure Vault"
 ---
 
 ## Materials
--  <a target="_blank" href="https://s3.eu-west-2.amazonaws.com/growthcasts-course-materials/Risk+Roadmaps+Guide.pdf">The Risk Roadmaps Guide</a>
--  <a target="_blank" href="https://s3.eu-west-2.amazonaws.com/growthcasts-course-materials/Growthcasts+BONUS+Materials+-+Risk+Roadmap+Worksheet.pdf">Risk Roadmap Worksheet</a>
+-  <a target="_blank" href="https://drive.google.com/open?id=1pEhp684bzENm--Tnku8nfyB04NjFgAVa">The Risk Roadmaps Guide</a>
+-  <a target="_blank" href="https://drive.google.com/open?id=1p5MguKYs3TAFaCHI-oZCPmPghy3mtsiq">Risk Roadmap Worksheet</a>
 
 
 ## Treasure Vault

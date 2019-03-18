@@ -13,7 +13,7 @@ The growth process has a massive impact on the way we build products, and compan
 
 ### Resources
 
-- [Lesson slides (PDF)](https://wvww.googledrive.com/file_public_link)
-- [Lesson transcripts](https://wvww.googledrive.com/file_public_link)
+- [Lesson slides (PDF)](https://drive.google.com/open?id=1Jch9WLB9jghhh_GKVJ9DjUIRKSYoyRkP)
+- [Lesson transcripts](https://drive.google.com/open?id=1ihlblkwx_lHCQ56Dgm39dboRFvd1xQGextuHQkMLfjQ)
 
 ### Notes

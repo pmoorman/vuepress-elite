@@ -13,7 +13,7 @@ Learn a simple framework to better structure your sales funnels and conversion f
 
 ### Resources
 
-- [Lesson slides (PDF)](https://wvww.googledrive.com/file_public_link)
-- [Lesson transcripts](https://wvww.googledrive.com/file_public_link)
+- [Lesson slides (PDF)](https://drive.google.com/open?id=1Gfzf4MUZTcTAsoybKBUDcvip-9JkYrXz)
+- [Lesson transcripts](https://drive.google.com/open?id=1APAGXNg-UOt0ytlK1IR7lkppCWbo08hz673MoeBJ9pM)
 
 ### Notes

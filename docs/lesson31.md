@@ -13,7 +13,7 @@ Even though all marketing channels are created equal, some are more equal than o
 
 ### Resources
 
-- [Lesson slides (PDF)](https://wvww.googledrive.com/file_public_link)
-- [Lesson transcripts](https://wvww.googledrive.com/file_public_link)
+- [Lesson slides (PDF)](https://drive.google.com/open?id=1mFsw6MJrMm_ry2TFMFA-7YApRmyQ8L9b)
+- [Lesson transcripts](https://drive.google.com/open?id=1w7r977iEVDRh2A0If7kHkXFiuwGGDjxOvMyhH7sA5d8)
 
 ### Notes

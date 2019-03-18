@@ -13,7 +13,7 @@ Learn how direct-response marketing and brand-based marketing are different, but
 
 ### Resources
 
-- [Lesson slides (PDF)](https://wvww.googledrive.com/file_public_link)
-- [Lesson transcripts](https://wvww.googledrive.com/file_public_link)
+- [Lesson slides (PDF)](https://drive.google.com/open?id=1VNuCU0vu5QnQvSTNeILQAHyR0U99RblO)
+- [Lesson transcripts](https://drive.google.com/open?id=1e8V6fechTABYGujqZAHXHxvyi16b88LsIoyBRC8KUZE)
 
 ### Notes

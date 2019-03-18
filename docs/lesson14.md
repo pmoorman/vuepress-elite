@@ -13,9 +13,9 @@ Growth loops form the high-level strategy framework to understand how all growth
 
 ### Resources
 
-- [Lesson slides (PDF)](https://wvww.googledrive.com/file_public_link)
-- [Lesson transcripts](https://wvww.googledrive.com/file_public_link)
-- [Growht Loops (PDF Guide)](https://wvww.googledrive.com/file_public_link)
+- [Lesson slides (PDF)](https://drive.google.com/open?id=1hum2oaP9TeXRaY6Rxyvf6D6B09SBpRWD)
+- [Lesson transcripts](https://drive.google.com/open?id=1u0AweQgQnDvQX8zdZHgaGrZb3oSmWOPuwWDBE_l3bJY)
+- [Growth Loops (PDF Guide)](https://wvww.googledrive.com/file_public_link)
 - [Growth Loops (worksheet)](https://wvww.googledrive.com/file_public_link)
 
 ### Notes

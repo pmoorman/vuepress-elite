@@ -13,8 +13,8 @@ Explore the magic of content-driven sales funnels, with this email course funnel
 
 ### Resources
 
-- [Lesson slides (PDF)](https://wvww.googledrive.com/file_public_link)
-- [Lesson transcripts](https://wvww.googledrive.com/file_public_link)
-- [Email course funnel template](https://wvww.googledrive.com/file_public_link)
+- [Lesson slides (PDF)](https://drive.google.com/open?id=1tZOOIHz6xlzo3iazVldMGUH3twNLU_G0)
+- [Lesson transcripts](https://drive.google.com/open?id=1P5a1RpSI1wT9_Ryj5bo0nem-aAHRMbj-RvQH6cvP_Hc)
+- [Email course funnel template](https://drive.google.com/open?id=16TxBVVkFMjPkcir6jGWYhhpNIxQ-Xho6)
 
 ### Notes

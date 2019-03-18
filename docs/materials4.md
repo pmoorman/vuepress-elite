@@ -3,8 +3,8 @@ title: "Materials & Treasure Vault"
 ---
 
 ## Materials
--  <a target="_blank" href="https://s3.eu-west-2.amazonaws.com/growthcasts-course-materials/Copywriting+Guide.pdf">The Copywriting Guide</a>
--  <a target="_blank" href="https://s3.eu-west-2.amazonaws.com/growthcasts-course-materials/Growthcasts+BONUS+Materials+-+Copywriting+Worksheet.pdf">Copywriting Worksheet</a>
+-  <a target="_blank" href="https://drive.google.com/open?id=1ktBuk0Sr-SrgU67QRe_MrXW53HqUahWD">The Copywriting Guide</a>
+-  <a target="_blank" href="https://drive.google.com/open?id=1vbWOajea8KW68j6cYD68xpqV-om3yhsA">Copywriting Worksheet</a>
 
 
 ## Treasure Vault

@@ -13,8 +13,8 @@ An exploration of a typical sales-driven funnel that's applicable to business-to
 
 ### Resources
 
-- [Lesson slides (PDF)](https://wvww.googledrive.com/file_public_link)
-- [Lesson transcripts](https://wvww.googledrive.com/file_public_link)
-- [Product demo funnel template](https://wvww.googledrive.com/file_public_link)
+- [Lesson slides (PDF)](https://drive.google.com/open?id=1u0LmAokjNj-8oFpjdjVi_6G12emkDuao)
+- [Lesson transcripts](https://drive.google.com/open?id=1oKc3mOtfkaqBN-4Vdf17R9XSc3Nl46mySh60FBrdeFE)
+- [Product demo funnel template](https://drive.google.com/open?id=1-JafUIUMnFsd20rKFYFawMynLExXT73b)
 
 ### Notes

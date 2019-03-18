@@ -12,8 +12,8 @@ See how retention works, and how retention fits into the bigger picture of your 
 
 ### Resources
 
-- [Lesson slides (PDF)](https://wvww.googledrive.com/file_public_link)
-- [Lesson transcripts](https://wvww.googledrive.com/file_public_link)
+- [Lesson slides (PDF)](https://drive.google.com/open?id=1RHIJSg34rTv1ZI1h6WGma_iyl7DNiMf_)
+- [Lesson transcripts](https://drive.google.com/open?id=1UMuuKe2maFxBIeCIjeNXn_MHEn_hR8BYno4PXFPT56Q)
 <!-- - [Retention Strategies (PDF guide)](https://wvww.googledrive.com/file_public_link)  -->
 
 ### Notes

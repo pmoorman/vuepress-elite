@@ -13,7 +13,7 @@ Learn how growth marketing is primarily focused on building "growth systems" tha
 
 ### Resources
 
-- [Lesson slides (PDF)](https://wvww.googledrive.com/file_public_link)
-- [Lesson transcripts](https://wvww.googledrive.com/file_public_link)
+- [Lesson slides (PDF)](https://drive.google.com/open?id=1pcICn5v60iThgrSElgIp-JeNNDkuBWuK)
+- [Lesson transcripts](https://drive.google.com/open?id=16PaWOx-CMrjtqZvn88YUZlVWDtitADWxBs1C7j6QTP0)
 
 ### Notes

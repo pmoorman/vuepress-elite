@@ -13,9 +13,9 @@ Explore why onboarding is the most important lever in your overall retention gam
 
 ### Resources
 
-- [Lesson slides (PDF)](https://wvww.googledrive.com/file_public_link)
-- [Lesson transcripts](https://wvww.googledrive.com/file_public_link)
-- [Advanced Onboarding (PDF Guide)]()
-- [Magic Moments Map (worksheet)]()
+- [Lesson slides (PDF)](https://drive.google.com/open?id=1-ttQlrXX6PjCY185DPB55z_9-SUY8jAt)
+- [Lesson transcripts](https://drive.google.com/open?id=13bLuE92JShNCInr4KASIEgU2o88Yw7B1hvPuJiKdw78)
+- [Advanced Onboarding (PDF Guide)](https://drive.google.com/open?id=105AQSGRIjlLnkKCOU6tkkqhNQyJ1rKd4)
+- [Magic Moments Map (worksheet)](https://drive.google.com/open?id=1LwT5FdreYA5rU_HEzu-j-RImgp88oVCa)
 
 ### Notes
