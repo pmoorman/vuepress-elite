@@ -8,7 +8,7 @@ export default ({
 }) => {
   Vue.use(VueLocalStorage);
 
-  router.afterEach((to, from) => {
+  router.beforeEach((to, from, next) => {
     let auth = Vue.localStorage && Vue.localStorage.get('p');
 
     // If not authorized redirect to login page
@@ -18,5 +18,15 @@ export default ({
         window.location.href = '/login.html';
       }
     }
+
+    if (to.path === '/' && typeof window !== "undefined") {
+      window.setTimeout(function () {
+        console.log('next is called 1second later');
+        next();
+      }, 1000);
+      return;
+    }
+
+    next();
   });
 }
