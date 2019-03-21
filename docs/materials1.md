@@ -5,7 +5,7 @@ title: "Materials & Treasure Vault"
 ## Assets & Materials
 
 -  [The Traction System Guide](https://drive.google.com/open?id=1oVhAdlQrpfFw7UvNKk5UqQHtVDWWKiWF)
--  [Channel Analysis Worksheet](https://drive.google.com/open?id=1-hpYqWPIvoLIs4Ey4_0bkHoFOyoMYE1f)
+-  [Channel Analysis Worksheet](https://drive.google.com/open?id=1fjDbg27Pkf7YStpsDF8MWQ7skPA6UZ47eWfvqMOSJxY)
 
 
 ## Treasure Vault

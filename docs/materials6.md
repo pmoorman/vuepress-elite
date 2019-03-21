@@ -4,7 +4,7 @@ title: "Materials & Treasure Vault"
 
 ## Materials
 -  [The Risk Roadmaps Guide](https://drive.google.com/open?id=1pEhp684bzENm--Tnku8nfyB04NjFgAVa)
--  [Risk Roadmap Worksheet](https://drive.google.com/open?id=1p5MguKYs3TAFaCHI-oZCPmPghy3mtsiq)
+-  [Risk Roadmap Worksheet](https://drive.google.com/open?id=1wrvSPPSLAT9EHNEbiy3ypmW18KL9SCjqDZwTCDxxc3g)
 
 
 ## Treasure Vault

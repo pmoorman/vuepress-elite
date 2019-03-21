@@ -4,7 +4,7 @@ title: "Materials & Treasure Vault"
 
 ## Materials
 -  [The Copywriting Guide](https://drive.google.com/open?id=1ktBuk0Sr-SrgU67QRe_MrXW53HqUahWD)
--  [Copywriting Worksheet](https://drive.google.com/open?id=1vbWOajea8KW68j6cYD68xpqV-om3yhsA)
+-  [Copywriting Worksheet](https://drive.google.com/open?id=18HDWe031TkKklmGWqBvhpAgLxJe8FFQ4VwI9kkAiRYs)
 
 
 ## Treasure Vault
