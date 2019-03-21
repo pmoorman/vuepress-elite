@@ -3,8 +3,8 @@ title: "Materials & Treasure Vault"
 ---
 
 ## Materials
--  <a target="_blank" href="https://drive.google.com/open?id=1ktBuk0Sr-SrgU67QRe_MrXW53HqUahWD">The Copywriting Guide</a>
--  <a target="_blank" href="https://drive.google.com/open?id=1vbWOajea8KW68j6cYD68xpqV-om3yhsA">Copywriting Worksheet</a>
+-  [The Copywriting Guide](https://drive.google.com/open?id=1ktBuk0Sr-SrgU67QRe_MrXW53HqUahWD)
+-  [Copywriting Worksheet](https://drive.google.com/open?id=1vbWOajea8KW68j6cYD68xpqV-om3yhsA)
 
 
 ## Treasure Vault

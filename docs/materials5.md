@@ -3,8 +3,8 @@ title: "Materials & Treasure Vault"
 ---
 
 ## Materials
--  <a target="_blank" href="https://drive.google.com/open?id=105AQSGRIjlLnkKCOU6tkkqhNQyJ1rKd4">Advanced Onboarding Guide</a>
--  <a target="_blank" href="https://drive.google.com/open?id=1LwT5FdreYA5rU_HEzu-j-RImgp88oVCa">Magic Moments Map Worksheet</a>
+-  [Advanced Onboarding Guide](https://drive.google.com/open?id=105AQSGRIjlLnkKCOU6tkkqhNQyJ1rKd4)
+-  [Magic Moments Map Worksheet](https://drive.google.com/open?id=1LwT5FdreYA5rU_HEzu-j-RImgp88oVCa)
 
 
 ## Treasure Vault

@@ -3,8 +3,8 @@ title: "Materials & Treasure Vault"
 ---
 
 ## Materials
--  <a target="_blank" href="https://drive.google.com/open?id=1pEhp684bzENm--Tnku8nfyB04NjFgAVa">The Risk Roadmaps Guide</a>
--  <a target="_blank" href="https://drive.google.com/open?id=1p5MguKYs3TAFaCHI-oZCPmPghy3mtsiq">Risk Roadmap Worksheet</a>
+-  [The Risk Roadmaps Guide](https://drive.google.com/open?id=1pEhp684bzENm--Tnku8nfyB04NjFgAVa)
+-  [Risk Roadmap Worksheet](https://drive.google.com/open?id=1p5MguKYs3TAFaCHI-oZCPmPghy3mtsiq)
 
 
 ## Treasure Vault
