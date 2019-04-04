@@ -11,7 +11,7 @@ title: "Materials & Treasure Vault"
 
 #### Lead Gen Engine
 -  [The Lead Gen Enginge Guide](https://drive.google.com/open?id=11YirhcW7pV1vuykeSvqCeeMmLidcsMC2)
--  [Email Swipe File](https://drive.google.com/open?id=1nEqWYcYHFJkzDHVNa5xoRxEzspbHaqPB)
+-  [Email Swipe File](https://drive.google.com/open?id=1daEWWrLE-SbGBZzsU0qHLLSVMTgvYbMn)
 
 
 ## Treasure Vault
