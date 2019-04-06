@@ -12,7 +12,6 @@ Short introduction to the course, as well an overview of what to find where.
 
 ### Resources
 
-- [Lesson slides (PDF)](https://wvww.googledrive.com/file_public_link)
-- [Lesson transcripts](https://wvww.googledrive.com/file_public_link)
+- [Lesson transcripts](https://vimeo.com/user63413753/review/328834494/faba7ec02e)
 
 ### Notes
