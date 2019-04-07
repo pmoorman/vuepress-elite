@@ -15,6 +15,6 @@ Work with the core constraints of your product and business to hone in on the gr
 
 - [Lesson slides (PDF)](https://drive.google.com/open?id=11q2lOfw8_MWMphWIo1WtK73pmji82KWY)
 - [Lesson transcripts](https://drive.google.com/open?id=1uIxGcvNTmOk-PiPDyN9tME7z11eQWbNAyzsNPuc1ylA)
-- [Channels Analysis worksheet](https://drive.google.com/open?id=1-hpYqWPIvoLIs4Ey4_0bkHoFOyoMYE1f)
+- [Channels Analysis worksheet](https://drive.google.com/open?id=1fjDbg27Pkf7YStpsDF8MWQ7skPA6UZ47eWfvqMOSJxY)
 
 ### Notes
