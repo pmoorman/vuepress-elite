@@ -4,6 +4,8 @@ sidebar: true
 
 # Before we get started
 
+<div class='embed-container'><iframe src='https://player.vimeo.com/video/328834494' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+
 Hey, Pieter here... 
 
 First of all: AWESOME to see you here. I'm super glad you're coming onboard!

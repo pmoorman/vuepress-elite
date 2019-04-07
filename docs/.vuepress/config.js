@@ -25,7 +25,7 @@ module.exports = {
         title: 'Module 1: Growth Strategy',
         collapsable: true,
         children: [
-          // '/lesson11',
+          '/lesson11',
           '/lesson12',
           '/lesson13',
           '/lesson14',
@@ -40,6 +40,7 @@ module.exports = {
         title: 'Module 2: Sales Funnels',
         collapsable: true,
         children: [
+          '/lesson20',
           '/lesson21',
           '/lesson22',
           '/lesson23',
@@ -55,6 +56,7 @@ module.exports = {
         title: 'Module 3: Growth Engines',
         collapsable: true,
         children: [
+          '/lesson30',
           '/lesson31',
           '/lesson32',
           '/lesson33',
@@ -72,6 +74,7 @@ module.exports = {
         title: 'Module 4: Copy & conversions',
         collapsable: true,
         children: [
+          '/lesson40',
           '/lesson41',
           '/lesson42',
           '/lesson43',
@@ -85,6 +88,7 @@ module.exports = {
         title: 'Module 5: Retention',
         collapsable: true,
         children: [
+          '/lesson50',
           '/lesson51',
           '/lesson52',
           '/lesson53',
@@ -98,6 +102,7 @@ module.exports = {
         title: 'Module 6: Advanced Strategies',
         collapsable: true,
         children: [
+          '/lesson60',
           '/lesson61',
           '/lesson62',
           '/lesson63',
