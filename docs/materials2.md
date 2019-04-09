@@ -6,7 +6,7 @@ title: "Materials & Treasure Vault"
 
 -  [The Hypnotic Sales Funnel Guide](https://drive.google.com/open?id=1c4kXauw76Ndu3EWPK075uMtYxlFd3ehB)
 -  [Webinar Funnel Template](https://drive.google.com/open?id=1GUfBPGbgnnWhux2RJyF8ZLsYnO1A2KY4)
--  [Email Course Funnel Template](https://drive.google.com/open?id=16TxBVVkFMjPkcir6jGWYhhpNIxQ-Xho6)
+-  [Email Course Funnel Template](https://drive.google.com/open?id=1kU5kozKkbGrwIZyLFpK-E1X-6t7ea4Lk)
 -  [Freemium Funnel Template](https://drive.google.com/open?id=1QwR6qhl-G6cm_OgB8_f9E-j5XPG35Zjg)
 -  [VIP Funnel Template](https://drive.google.com/open?id=1-JafUIUMnFsd20rKFYFawMynLExXT73b)
 
