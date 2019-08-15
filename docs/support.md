@@ -11,8 +11,8 @@ title: "Elite Support"
 Support for Elite customers is mostly handled by myself. Start the subject line with _"ELITE:"_ so that I can give you priority support.
 Bear in mind that I might be on the other side of the glode from you. Expect a response on emails within 24 hours.
 
-- Reach Pieter at: [pieter@growthcasts.co](mailto:pieter@growthcasts.co)
-- Reach Caspar at: [caspar@growthcasts.co](mailto:caspar@growthcasts.co)
+- Reach Pieter at: [pieter@double-agency.com](mailto:pieter@Double-agency.com)
+- Reach Caspar at: [caspar@double-agency.com](mailto:caspar@Double-agency.com)
 
 
 
@@ -30,4 +30,4 @@ Add @pmoorman and send me a message!
 
 ### 4. Need bespoke growth services? Talk with our agency team
 
-As an agency, we sell bespoke growth marketing services to high-potential startup companies. These are bespoke, high-price/high-value dedicated growth services. If that's you, [reach out to Caspar](mailto:caspar@growthcasts.co) to talk about possibilities.
+As an agency, we sell bespoke growth marketing services to high-potential startup companies. These are bespoke, high-price/high-value dedicated growth services. If that's you, [reach out to Caspar](mailto:caspar@Double-agency.com) to talk about possibilities.

@@ -33,6 +33,6 @@ Make it happen!
 
 *P.S.*
 
-*You can always reach me at: pieter@growthcasts.co.*
+*You can always reach me at: pieter@double-agency.com.*
 
 *Put "ELITE" in your email headline so I can give you priority & fast service*
