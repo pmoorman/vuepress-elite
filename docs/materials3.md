@@ -26,7 +26,7 @@ title: "Materials & Treasure Vault"
 
 
 #### Paid ads engine
-- [AdEspresso](adespresso.com)
+- [AdEspresso](https://adespresso.com)
 - [AndrewHubbard (facebook ads guy)](https://andrewhubbard.co/)
 
 
@@ -39,18 +39,18 @@ title: "Materials & Treasure Vault"
 - [Notes on cold outreach strategies](http://blog.oribi.io/how-i-got-meetings-at-twitter-linkedin-and-github-using-cold-emails/)
 - [Web scraping for non-developers](https://www.import.io/post/3-ways-non-technical-marketers-can-leverage-web-scraping/)
 - [How to get anyone's email address](http://www.growhack.com/2016/07/how-to-get-anyones-email-address/) old, but still works
-- [Import.io](import.io) Best scraping tool
+- [Import.io](https://import.io) Best scraping tool
 - [BuildWith](https://trends.builtwith.com/websitelist/Infusionsoft) find websites using certain tech
-- [VoilaNorbert](voilanorbert.com) email finder
+- [VoilaNorbert](https://voilanorbert.com) email finder
 - [Findthat.email](https://findthat.email/) email finder
 - [Amplemarket](https://emailmatcher.com) email finder
 - [Anymailfinder](https://anymailfinder.com/) email finder
 - [Steward](https://www.getsteward.com/) email finder
 - [Amazon Mechanical Turk](https://www.mturk.com/)
-- [Prospect.io](Prospect.io) Outreach tool
+- [Prospect.io](https://Prospect.io) Outreach tool
 - [Replyapp](https://reply.io/) Outreach tool
 - [Mailshake](https://mailshake.com) outbound outreach tool
-- [MixMax: making emails work harder](mixmax.com)
+- [MixMax: making emails work harder](https://mixmax.com)
 - [Replyup follow-up automation](http://try.replyup.com/)
 - [Attach.io list of "all the sales tools"](https://attach.io/sales-tools/)
 

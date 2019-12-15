@@ -14,7 +14,7 @@ title: "Materials & Treasure Vault"
 - [The Boron Letters (Gary Halbert)](http://www.thegaryhalbertletter.com/Boron/BoronLetterCh1.htm)**(!!)** Best way to learn direct response copywriting (FREE!)
 - [Ogilvy on Advertising](https://www.amazon.com/Ogilvy-Advertising-David/dp/039472903X/ref=pd_bxgy_14_img_2?_encoding=UTF8&psc=1&refRID=KKP3YKY980SCDMYDJ7XM)**(!!)** Direct marketing classic
 - [Advertising Secrets of the Written word](https://www.amazon.com/Advertising-Secrets-Written-Word-Entrepreneurs/dp/1891686003)
-- [The Brain Audit]() Great practical book on structural copywriting
+- [The Brain Audit](https://www.psychotactics.com/products/the-brain-audit-32-marketing-strategy-and-structure/) Great practical book on structural copywriting
 - [Drayton Bird "51 marketing ideas"](http://www.draytonbird.net/helpful_ideas_book_2011.pdf)
 - [Breakthrough advertising](https://www.amazon.com/Breakthrough-Advertising-Eugene-M-Schwartz/dp/0887232981)
 - [Tested advertising methods, by John Caples](https://www.amazon.com/Advertising-Methods-Prentice-Business-Classics/dp/0130957011)
@@ -26,7 +26,7 @@ title: "Materials & Treasure Vault"
 
 #### Learning copywriting
 - [Gary Halbert Letters](http://www.thegaryhalbertletter.com/Newletter-archives-protected/newsletters/2006/the_700_million_dollar_man.htm)**(!!)**
-- [Copyhour](copyhour.com) Great way to learn copywriting
+- [Copyhour](https:///copyhour.com) Great way to learn copywriting
 - [Gary Bencivenga](http://marketingbullets.com/) Legend copywriter
 - [Conversion triggers](https://copyhackers.com/2017/08/conversion-triggers-email-campaign/) CopyHackers on what triggers people in email
 - [John Carlton Reluctant hero](http://pi4mm.com/28-pros-guide-to-becoming-more-interesting-formula-included/#more-992) Excellent explanation of the "reluctant hero" format

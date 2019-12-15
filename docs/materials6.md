@@ -16,9 +16,9 @@ title: "Materials & Treasure Vault"
 - [Why scaling up gets harder](https://andrewchen.co/startups-are-cheaper-to-build-more-expensive-to-grow/)
 - [Andrew Chen on loops](https://andrewchen.co/investor-metrics-deck/)
 - [Andreessen Horowitz on network effects](https://a16z.com/2016/03/07/all-about-network-effects/)
-- [Rework (book)]()
+- [Rework (book)](https://basecamp.com/books/rework)
 - [Matt Mullenweg (WordPress) on scaling](https://www.startups.com/education/videos/series/building-unicorn)
-- [Growth Engines (book)]()
+- [Growth Engines (book)](https://www.amazon.com/Startup-Growth-Engines-Successful-Extraordinary-ebook/)
 - [Greylock Partners on Growth models](https://news.greylock.com/building-a-growth-model-for-your-company-a7a82c55782e)
 - [Andrew Chen on product habit loops](https://andrewchen.co/how-to-design-successful-social-products-with-3-habit-forming-feedback-loops/)
 - [Stacking user acquistion loops like SurveyMonkey](https://www.kevin-indig.com/stacking-user-acquisition-loops-like-surveymonkey/)
@@ -36,7 +36,7 @@ title: "Materials & Treasure Vault"
 #### Risk Roadmaps
 - [Startups are bundles of risks](https://www.codingvc.com/startups-are-risk-bundles/)
 - [How to de-risk a startup](https://www.codingvc.com/how-to-de-risk-a-startup)
-- [RAT: Riskiest Assumption Test]()
+- [RAT: Riskiest Assumption Test](https://hackernoon.com/the-mvp-is-dead-long-live-the-rat-233d5d16ab02)
 - [Manual automation and building without code](http://hackingrevenue.com/entrepreneurship/manual-automation)
 - [Ryan Hoover on "email-based startups"](http://ryanhoover.me/post/69599262875/product-hunt-began-as-an-email-list)
 - [Running lean (book)](https://www.amazon.com/Running-Lean-Iterate-Works-OReilly/dp/1449305172)
@@ -60,5 +60,5 @@ title: "Materials & Treasure Vault"
 
 #### Branding
 - [Slack: We don't sell Saddles here](https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d)
-- [22 Immutable Laws of Marketing]()
-- [22 Immutable Laws of Branding]()
+- [22 Immutable Laws of Marketing](https://www.amazon.com/22-Immutable-Laws-Marketing-Violate/dp/0887306667)
+- [22 Immutable Laws of Branding](https://www.amazon.com/22-Immutable-Laws-Branding-World-Class-ebook/dp/B000FC10H0)

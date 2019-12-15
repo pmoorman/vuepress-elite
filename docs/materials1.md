@@ -38,11 +38,11 @@ title: "Materials & Treasure Vault"
 
 #### Growth Loops
 - [Reforge on growth loops](https://www.reforge.com/blog/growth-loops)
-- [Andrew Chen on growth loops]()
+- [Andrew Chen on growth loops](https://andrewchen.co/investor-metrics-deck/)
 - [Key Elements of a massively scalable startup](http://www.startup-marketing.com/key-elements-of-a-massively-scalable-startup/)
 - [Stacking user acquistion loops like SurveyMonkey](https://www.kevin-indig.com/stacking-user-acquisition-loops-like-surveymonkey/)
 - [Growth Models](https://news.greylock.com/building-a-growth-model-for-your-company-a7a82c55782e#.thglwzn50) Article by Andy Johns (Growth @Facebook, etc.)
-- [Scientific Marketing](https://sumo.com/stories/marketing-strategy">Scientific) Article by SumoMe
+- [Scientific Marketing](https://sumo.com/stories/marketing-strategy) Article by SumoMe
 - [Epic list of further resources](https://foundersgrid.com/growth-hacking/)
 
 
