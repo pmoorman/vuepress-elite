@@ -13,7 +13,7 @@ Part II on growth loops gives a variety of examples of prominent growth loops, a
 
 ### Resources
 
-- [Lesson slides (PDF)](https://drive.google.com/open?id=1TjOGz9eEiLl--cD3nuNuxX-CFwg8rMY_)
+- [Lesson slides (PDF)](https://drive.google.com/file/d/1TjOGz9eEiLl--cD3nuNuxX-CFwg8rMY_/view?usp=sharing)
 - [Lesson transcripts](https://drive.google.com/open?id=1sRZYoVD0bd7UbfjX-e81TRgM5nwp205SxLbjsBOcuRU)
 
 ### Notes
