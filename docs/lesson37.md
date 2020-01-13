@@ -13,7 +13,7 @@ Once you have your sales funnel in place, and you've started to build your growt
 
 ### Resources
 
-- [Lesson slides (PDF)](https://drive.google.com/open?id=1VmZJCx4rQCSSiw_6JVuHfyUHpi-ZG1o-)
+- [Lesson slides (PDF)](https://drive.google.com/file/d/1VmZJCx4rQCSSiw_6JVuHfyUHpi-ZG1o-/view?usp=sharing)
 - [Lesson transcripts](https://drive.google.com/open?id=1voT0iXgbnb0jXWYURrVddCA8wlTkzLuULl24Pu1iGLw)
 
 ### Notes
