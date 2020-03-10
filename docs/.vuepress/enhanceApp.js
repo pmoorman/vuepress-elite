@@ -54,6 +54,7 @@ export default ({
       }
     } else {
       document.body.style.display = 'block';
+      document.title = 'Before we get started';
     }
 
     if (to.path === '/' && typeof window !== "undefined") {
