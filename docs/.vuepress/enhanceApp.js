@@ -57,6 +57,12 @@ export default ({
       document.title = 'Before we get started';
     }
 
+    if (auth && to.path == '/') {
+      window.setTimeout(function () {
+        document.title = 'Before we get started';
+      }, 1200);
+    }
+
     if (to.path === '/' && typeof window !== "undefined") {
       window.setTimeout(function () {
         console.log('next is called 1second later');
