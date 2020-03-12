@@ -54,6 +54,13 @@ export default ({
       }
     } else {
       document.body.style.display = 'block';
+      document.title = 'Before we get started';
+    }
+
+    if (auth && to.path == '/') {
+      window.setTimeout(function () {
+        document.title = 'Before we get started';
+      }, 1200);
     }
 
     if (to.path === '/' && typeof window !== "undefined") {
