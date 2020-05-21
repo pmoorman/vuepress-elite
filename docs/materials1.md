@@ -14,10 +14,10 @@ title: "Materials & Treasure Vault"
 #### General marketing strategy
 - [Master the basics](https://www.jimmydaly.com/master-the-basics)
 - [Morgan Brown on the hustle stage](https://www.startups.com/education/videos/series/growth-user-0)
-- [All the growth hacks you'll ever need](https://ladder.io)
+- [All the growth hacks you'll ever need](https://ladder.io/playbook)
 - [How to grow a lifestyle business with Nat Eliason](https://www.nateliason.com/blog/lifestyle-business)
 - [Product vs. Growth](https://growthsupply.com/startup-growth-marketing-product/)
-- [How I would growth hack a barber shop](https://www.hackisition.com/how-i-would-growth-hack-a-barbershop/)
+- [How I would growth hack a barber shop](https://medium.com/hackisition/how-i-would-growth-hack-a-barbershop-87d9efd932c8)
 
 
 #### Process & Lean
