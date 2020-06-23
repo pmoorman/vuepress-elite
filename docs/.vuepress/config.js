@@ -22,7 +22,7 @@ module.exports = {
     ],
     sidebar: [
       {
-        title: 'Module 1: Growth Strategy',
+        title: 'Module 1: Strategy',
         collapsable: true,
         children: [
           '/lesson11',
@@ -37,23 +37,7 @@ module.exports = {
         ]
       },
       {
-        title: 'Module 2: Sales Funnels',
-        collapsable: true,
-        children: [
-          '/lesson20',
-          '/lesson21',
-          '/lesson22',
-          '/lesson23',
-          '/lesson24',
-          '/lesson25',
-          '/lesson26',
-          '/case61',
-          '/case62',
-          '/materials2'
-        ]
-      },
-      {
-        title: 'Module 3: Growth Engines',
+        title: 'Module 2: Growth Engines',
         collapsable: true,
         children: [
           '/lesson30',
@@ -69,23 +53,25 @@ module.exports = {
           '/case53',
           '/materials3'
         ]
-      },
+      },      
       {
-        title: 'Module 4: Copy & conversions',
+        title: 'Module 3: Sales Funnels',
         collapsable: true,
         children: [
-          '/lesson40',
-          '/lesson41',
-          '/lesson42',
-          '/lesson43',
-          '/lesson44',
-          '/case21',
-          '/case22',
-          '/materials4'
+          '/lesson20',
+          '/lesson21',
+          '/lesson22',
+          '/lesson23',
+          '/lesson24',
+          '/lesson25',
+          '/lesson26',
+          '/case61',
+          '/case62',
+          '/materials2'
         ]
       },
       {
-        title: 'Module 5: Retention',
+        title: 'Module 4: Engagement & Retention',
         collapsable: true,
         children: [
           '/lesson50',
@@ -99,7 +85,21 @@ module.exports = {
         ]
       },
       {
-        title: 'Module 6: Advanced Strategies',
+        title: 'Module 5: Conversion Skills',
+        collapsable: true,
+        children: [
+          '/lesson40',
+          '/lesson41',
+          '/lesson42',
+          '/lesson43',
+          '/lesson44',
+          '/case21',
+          '/case22',
+          '/materials4'
+        ]
+      },      
+      {
+        title: 'Module 6: Data & Experimentation',
         collapsable: true,
         children: [
           '/lesson60',
