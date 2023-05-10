@@ -36,86 +36,86 @@ module.exports = {
           '/materials1'
         ]
       },
-      {
-        title: 'Module 2: Sales Funnels',
-        collapsable: true,
-        children: [
-          '/lesson20',
-          '/lesson21',
-          '/lesson22',
-          '/lesson23',
-          '/lesson24',
-          '/lesson25',
-          '/lesson26',
-          '/case61',
-          '/case62',
-          '/materials2'
-        ]
-      },
-      {
-        title: 'Module 3: Growth Engines',
-        collapsable: true,
-        children: [
-          '/lesson30',
-          '/lesson31',
-          '/lesson32',
-          '/lesson33',
-          '/lesson34',
-          '/lesson35',
-          '/lesson36',
-          '/lesson37',
-          '/case51',
-          '/case52',
-          '/case53',
-          '/materials3'
-        ]
-      },
-      {
-        title: 'Module 4: Copy & conversions',
-        collapsable: true,
-        children: [
-          '/lesson40',
-          '/lesson41',
-          '/lesson42',
-          '/lesson43',
-          '/lesson44',
-          '/case21',
-          '/case22',
-          '/materials4'
-        ]
-      },
-      {
-        title: 'Module 5: Retention',
-        collapsable: true,
-        children: [
-          '/lesson50',
-          '/lesson51',
-          '/lesson52',
-          '/lesson53',
-          '/lesson54',
-          '/lesson55',
-          '/lesson56',
-          '/materials5'
-        ]
-      },
-      {
-        title: 'Module 6: Advanced Strategies',
-        collapsable: true,
-        children: [
-          '/lesson60',
-          '/lesson61',
-          '/lesson62',
-          '/lesson63',
-          '/lesson64',
-          '/lesson65',
-          '/lesson66',
-          '/lesson67',
-          '/lesson68',
-          '/case31',
-          '/case32',
-          '/materials6'
-        ]
-      },
+      // {
+      //   title: 'Module 2: Sales Funnels',
+      //   collapsable: true,
+      //   children: [
+      //     '/lesson20',
+      //     '/lesson21',
+      //     '/lesson22',
+      //     '/lesson23',
+      //     '/lesson24',
+      //     '/lesson25',
+      //     '/lesson26',
+      //     '/case61',
+      //     '/case62',
+      //     '/materials2'
+      //   ]
+      // },
+      // {
+      //   title: 'Module 3: Growth Engines',
+      //   collapsable: true,
+      //   children: [
+      //     '/lesson30',
+      //     '/lesson31',
+      //     '/lesson32',
+      //     '/lesson33',
+      //     '/lesson34',
+      //     '/lesson35',
+      //     '/lesson36',
+      //     '/lesson37',
+      //     '/case51',
+      //     '/case52',
+      //     '/case53',
+      //     '/materials3'
+      //   ]
+      // },
+      // {
+      //   title: 'Module 4: Copy & conversions',
+      //   collapsable: true,
+      //   children: [
+      //     '/lesson40',
+      //     '/lesson41',
+      //     '/lesson42',
+      //     '/lesson43',
+      //     '/lesson44',
+      //     '/case21',
+      //     '/case22',
+      //     '/materials4'
+      //   ]
+      // },
+      // {
+      //   title: 'Module 5: Retention',
+      //   collapsable: true,
+      //   children: [
+      //     '/lesson50',
+      //     '/lesson51',
+      //     '/lesson52',
+      //     '/lesson53',
+      //     '/lesson54',
+      //     '/lesson55',
+      //     '/lesson56',
+      //     '/materials5'
+      //   ]
+      // },
+      // {
+      //   title: 'Module 6: Advanced Strategies',
+      //   collapsable: true,
+      //   children: [
+      //     '/lesson60',
+      //     '/lesson61',
+      //     '/lesson62',
+      //     '/lesson63',
+      //     '/lesson64',
+      //     '/lesson65',
+      //     '/lesson66',
+      //     '/lesson67',
+      //     '/lesson68',
+      //     '/case31',
+      //     '/case32',
+      //     '/materials6'
+      //   ]
+      // },
       //{
         //title: 'BONUS module: Consulting',
         //collapsable: true,
